@@ -33,7 +33,7 @@ TU_ID     = "181877"
 # Despues vuelves a GitHub, editas esta linea, y haces commit.
 # Streamlit Cloud actualiza tu dashboard solo en 30 segundos.
 # ============================================================
-TU_INSIGHT = "Descubrí que la región Central alcanza un margen de 4.5% con un nivel de ventas similar al de South 3.0% y superior al de East 1.9%. Recomiendo analizar las estrategias comerciales de Central y replicarlas en las demás regiones para mejorar la rentabilidad sin depender de aumentar las ventas."
+TU_INSIGHT = """Descubrí que la región Central alcanza un margen de 4.5% con un nivel de ventas similar al de South 3.0% y superior al de East 1.9%. Recomiendo analizar las estrategias comerciales de Central y replicarlas en las demás regiones para mejorar la rentabilidad sin depender de aumentar las ventas."""
 Aun no he escrito mi insight. Lo agregare despues de explorar
 los graficos y filtros de mi dashboard.
 """
